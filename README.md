@@ -9,7 +9,7 @@ In this project we are creating a Python Texting App using Twilio API
 - Then on your dashboard you were provided with your Account_sid and Auth_token on the right hand side
 - Then on Programmable SMS dashboard you will see a Get Started button click on it and get your twilio no.
 - Then verify your cell no from your user settings.
-- After that store your account_sid, auth_token, my_cell, my_twilio in the format that I have store in credentials.py
+- After that store your account_sid, auth_token, my_cell, my_twilio in the format that I have used in credentials.py
 - Remember to download twilio package using **pip install twilio** in terminal:
 
 1. Mac Users: Simply run this command on terminal
